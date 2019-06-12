@@ -1,5 +1,7 @@
 # Swagger UI Dist
-[![NPM version](https://badge.fury.io/js/swagger-ui-dist.svg)](http://badge.fury.io/js/swagger-ui-dist)
+![NPM version](https://img.shields.io/npm/v/@thenorthmemory/swagger-ui-dist.svg)
+
+This package contains the [`x-cdata` feature](https://github.com/swagger-api/swagger-ui/pull/4919).
 
 # API
 
